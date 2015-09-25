@@ -1,0 +1,30 @@
+{
+  "name": "posthtml-modular-css",
+  "version": "1.0.0",
+  "description": "posthtml modular css plugin example",
+  "scripts": {
+  },
+  "devDependencies": {
+    "gulp":"*",
+    "gulp-jade":"*",
+    "gulp-posthtml":"*",
+    "posthtml-modular-css":"*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admdh/posthtml-modular-css-example"
+  },
+  "keywords": [
+    "html",
+    "postproccessor",
+    "modular css",
+    "modular",
+    "css"
+  ],
+  "author": "ADM DESIGNHOUSE <admdh.com@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/admdh/posthtml-modular-css-example/issues"
+  },
+  "homepage": "https://github.com/admdh/posthtml-modular-css-example"
+}
